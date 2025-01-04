@@ -1,4 +1,4 @@
-# Customers Spending $100+ in June and July 2020
+# Customer Order Frequency
 
 ### Problem
 
