@@ -4,17 +4,23 @@ The task is to determine the winner of a competition between New York University
 
 ---
 
-### Input Tables
-
-#### NewYork Table
+#### Input:
+**NewYork Table:**
 | student_id | score |
 |------------|-------|
-| int        | int   |
+| 1          | 90    |
+| 2          | 87    |
 
-#### California Table
+**California Table:**
 | student_id | score |
 |------------|-------|
-| int        | int   |
+| 2          | 89    |
+| 3          | 88    |
+
+#### Output:
+| winner              |
+|---------------------|
+| New York University |
 
 ---
 
@@ -74,26 +80,7 @@ FROM
 3. **Output**:
    - Returns a single row with the `winner` column indicating the result.
 
----
 
-### Example Output
-#### Input:
-**NewYork Table:**
-| student_id | score |
-|------------|-------|
-| 1          | 90    |
-| 2          | 87    |
-
-**California Table:**
-| student_id | score |
-|------------|-------|
-| 2          | 89    |
-| 3          | 88    |
-
-#### Output:
-| winner              |
-|---------------------|
-| New York University |
 
 ---
 
