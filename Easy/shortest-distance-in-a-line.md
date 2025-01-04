@@ -1,4 +1,4 @@
-# Find the Shortest Distance Between Points
+# Shortest Distance in a Line
 
 ### Problem
 
