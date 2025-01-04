@@ -1,4 +1,4 @@
-# Sales Summary Report
+# Fix Product Name Format
 
 ### Problem
 
