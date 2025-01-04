@@ -136,4 +136,4 @@ ORDER BY
 - Correctly calculates the total traveled distance for users with rides.
 - Outputs the result in the required order.
 
-Let me know if you need further clarifications or adjustments!
+
