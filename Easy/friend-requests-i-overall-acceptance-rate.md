@@ -1,4 +1,4 @@
-# Acceptance Rate of Friend Requests
+# Friend Requests I: overall acceptance
 
 ### Problem
 
