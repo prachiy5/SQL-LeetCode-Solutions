@@ -1,4 +1,4 @@
-# Consecutive Available Seats in Cinema
+# Consecutive Available Seats
 
 ### Problem
 
