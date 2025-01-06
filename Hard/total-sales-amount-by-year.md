@@ -4,18 +4,19 @@
 #### Tables Description
 
 **Table: Product**
-
+```
 +---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
 | product_id    | int     |
 | product_name  | varchar |
 +---------------+---------+
+```
 product_id is the primary key (column with unique values) for this table.
 product_name is the name of the product.
 
 **Table: Sales**
-
+```
 +---------------------+---------+
 | Column Name         | Type    |
 +---------------------+---------+
@@ -24,6 +25,7 @@ product_name is the name of the product.
 | period_end          | date    |
 | average_daily_sales | int     |
 +---------------------+---------+
+```
 product_id is the primary key (column with unique values) for this table. 
 period_start and period_end indicate the start and end date for the sales period, and both dates are inclusive.
 The average_daily_sales column holds the average daily sales amount of the items for the period.
